@@ -3,6 +3,7 @@
 [![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+<hr>
 
 ![DarkDevon12 GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkDevon12&show_icons=true&theme=radical)
 
@@ -14,6 +15,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div> 
 
-<br>
+<p><hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDevon12&layout=compact)
