@@ -1,8 +1,17 @@
-### Olá! Eu sou o Vitor Ferreira 🙋🏼‍♂️
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1100&height=60&lines=👋👋+Olá.+Meu+nome+é+Vitor,+e+eu+sou+um+Desenvolvedor+Front-End!)
+
+🚀 Bem-vindo ao meu mundo digital! Sou um jovem apaixonado por tecnologia, nascido e criado na cidade de Barretos. Desde cedo, a tecnologia sempre foi parte integrante do meu dia a dia, alimentando minha curiosidade e impulsionando meu desejo de criar e inovar.
+
+🎓 Ao concluir o ensino médio, decidi que era hora de mergulhar de cabeça no vasto oceano da informação. Assim, tracei meu caminho rumo ao conhecimento ao ingressar em uma faculdade de bacharelado em Sistemas de Informação. Aqui, cada linha de código se torna uma oportunidade de aprender e crescer, enquanto busco entender os segredos por trás dos sistemas que impulsionam o mundo moderno.
+
+💻 Você me encontrará explorando novas linguagens de programação, desvendando os mistérios dos algoritmos ou colaborando em projetos emocionantes que desafiam os limites do possível. Estou sempre pronto para abraçar novos desafios e transformar ideias em realidade, uma linha de código de cada vez.
+
+🌟 Junte-se a mim nesta jornada emocionante pelo vasto universo da tecnologia. Vamos codificar, criar e inspirar juntos!
 
 [![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()<br>
 <hr>
 
 ![DarkDevon12 GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkDevon12&show_icons=true&theme=radical)
