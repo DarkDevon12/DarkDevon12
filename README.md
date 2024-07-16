@@ -6,7 +6,7 @@
 
 💻 Você me encontrará explorando novas linguagens de programação, desvendando os mistérios dos algoritmos ou colaborando em projetos emocionantes que desafiam os limites do possível. Estou sempre pronto para abraçar novos desafios e transformar ideias em realidade, uma linha de código de cada vez.
 
-🌟 Junte-se a mim nesta jornada emocionante pelo vasto universo da tecnologia. Vamos codificar, criar e inspirar juntos!
+🌟 Vamos codificar, criar e inspirar juntos!
 
 [![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
