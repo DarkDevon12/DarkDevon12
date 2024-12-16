@@ -26,4 +26,4 @@
 
 <p><hr>
 
-[![DarkDevon12](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDevon12&layout=donut)](https://github.com/DarkDevon12/github-readme-stats)
+
