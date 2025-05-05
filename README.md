@@ -8,12 +8,20 @@
 
 🌟 Vamos codificar, criar e inspirar juntos!
 
-![Discord](https://img.shields.io/badge/Discord-Lil%20Devon%238364-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitor.justino@faculdadebarretos.com.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517981117587)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vfmj/)
-<br>
-<hr>
+<div style="display: inline_block"><br/>
+  <a href="https://www.linkedin.com/in/vfmj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5517981117587" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:vitor.justino@faculdadebarretos.com.br">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <span title="Lil Devon#8364">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </span>
+</div>
 
 ![DarkDevon12 GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkDevon12&show_icons=true&theme=radical)
 
