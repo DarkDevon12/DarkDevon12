@@ -1,12 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1100&height=60&lines=👋👋+Olá.+Meu+nome+é+Vitor,+e+eu+sou+um+Desenvolvedor+Front-End!)
 
-🚀 Bem-vindo ao meu mundo digital! Sou um jovem apaixonado por tecnologia, nascido e criado na cidade de Barretos. Desde cedo, a tecnologia sempre foi parte integrante do meu dia a dia, alimentando minha curiosidade e impulsionando meu desejo de criar e inovar.
 
-🎓 Ao concluir o ensino médio, decidi que era hora de mergulhar de cabeça no vasto oceano da informação. Assim, tracei meu caminho rumo ao conhecimento ao ingressar em uma faculdade de bacharelado em Sistemas de Informação. Aqui, cada linha de código se torna uma oportunidade de aprender e crescer, enquanto busco entender os segredos por trás dos sistemas que impulsionam o mundo moderno.
-
-💻 Você me encontrará explorando novas linguagens de programação, desvendando os mistérios dos algoritmos ou colaborando em projetos emocionantes que desafiam os limites do possível. Estou sempre pronto para abraçar novos desafios e transformar ideias em realidade, uma linha de código de cada vez.
-
-🌟 Vamos codificar, criar e inspirar juntos!
 
 <div style="display: inline_block"><br/>
   <a href="https://www.linkedin.com/in/vfmj/" target="_blank">
