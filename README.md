@@ -3,14 +3,9 @@
 ![Naruto Running](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnMHl5bGprM3N0d2dzd3BzZG9pczMxcXdpaDZ4b2xjN21penZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif)
 
 
+Sou um desenvolvedor apaixonado por programação, sempre em busca de novos desafios e aprendizados. Além de minha formação em Sistemas de Informação, também trabalho com infraestrutura no Hospital de Câncer de Barretos, onde aplico minhas habilidades técnicas para garantir a operação eficiente de sistemas críticos no ambiente hospitalar.
 
-🚀 Bem-vindo ao meu mundo digital! Sou um jovem apaixonado por tecnologia, nascido e criado na cidade de Barretos. Desde cedo, a tecnologia sempre foi parte integrante do meu dia a dia, alimentando minha curiosidade e impulsionando meu desejo de criar e inovar.
-
-🎓 Ao concluir o ensino médio, decidi que era hora de mergulhar de cabeça no vasto oceano da informação. Assim, tracei meu caminho rumo ao conhecimento ao ingressar em uma faculdade de bacharelado em Sistemas de Informação. Aqui, cada linha de código se torna uma oportunidade de aprender e crescer, enquanto busco entender os segredos por trás dos sistemas que impulsionam o mundo moderno.
-
-💻 Você me encontrará explorando novas linguagens de programação, desvendando os mistérios dos algoritmos ou colaborando em projetos emocionantes que desafiam os limites do possível. Estou sempre pronto para abraçar novos desafios e transformar ideias em realidade, uma linha de código de cada vez.
-
-🌟 Vamos codificar, criar e inspirar juntos!
+Minha paixão por tecnologia me motiva a explorar tanto o desenvolvimento de software quanto a área de infraestrutura, buscando sempre soluções inovadoras que façam a diferença. Combinando o melhor dos dois mundos, estou pronto para enfrentar desafios e contribuir para um futuro mais tecnológico e eficiente.
 
 <div style="display: inline_block"><br/>
   <a href="https://www.linkedin.com/in/vfmj/" target="_blank">
