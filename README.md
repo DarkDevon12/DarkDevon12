@@ -1,6 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1100&height=60&lines=👋👋+Olá.+Meu+nome+é+Vitor,+e+eu+sou+um+Desenvolvedor+Front-End!)
 
+![Naruto Running](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFnMHl5bGprM3N0d2dzd3BzZG9pczMxcXdpaDZ4b2xjN21penZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif)
 
+
+
+🚀 Bem-vindo ao meu mundo digital! Sou um jovem apaixonado por tecnologia, nascido e criado na cidade de Barretos. Desde cedo, a tecnologia sempre foi parte integrante do meu dia a dia, alimentando minha curiosidade e impulsionando meu desejo de criar e inovar.
+
+🎓 Ao concluir o ensino médio, decidi que era hora de mergulhar de cabeça no vasto oceano da informação. Assim, tracei meu caminho rumo ao conhecimento ao ingressar em uma faculdade de bacharelado em Sistemas de Informação. Aqui, cada linha de código se torna uma oportunidade de aprender e crescer, enquanto busco entender os segredos por trás dos sistemas que impulsionam o mundo moderno.
+
+💻 Você me encontrará explorando novas linguagens de programação, desvendando os mistérios dos algoritmos ou colaborando em projetos emocionantes que desafiam os limites do possível. Estou sempre pronto para abraçar novos desafios e transformar ideias em realidade, uma linha de código de cada vez.
+
+🌟 Vamos codificar, criar e inspirar juntos!
 
 <div style="display: inline_block"><br/>
   <a href="https://www.linkedin.com/in/vfmj/" target="_blank">
@@ -17,7 +27,7 @@
   </span>
 </div>
 
-![DarkDevon12 GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkDevon12&show_icons=true&theme=radical)
+
 
 ### Tecnologias que eu uso no meu dia
 
