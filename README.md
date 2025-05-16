@@ -3,7 +3,7 @@
 ![Naruto Running](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl6OXVqN2J4NGJrZXZ5b25xYnpjYXNkdWZ5dnlqMTJ1d29wcDZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif)
 
 
-Atualmente também trabalho com infraestrutura no Hospital de Câncer de Barretos, onde aplico minhas habilidades técnicas para garantir a operação eficiente de sistemas críticos no ambiente hospitalar.
+Atualmente trabalho com infraestrutura no Hospital de Câncer de Barretos, onde aplico minhas habilidades técnicas para garantir a operação eficiente de sistemas críticos no ambiente hospitalar.
 
 Minha paixão por tecnologia me motiva a explorar tanto o desenvolvimento de software quanto a área de infraestrutura, buscando sempre soluções inovadoras que façam a diferença. Combinando o melhor dos dois mundos, estou pronto para enfrentar desafios e contribuir para um futuro mais tecnológico e eficiente.
 
