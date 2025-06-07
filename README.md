@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1100&height=60&lines=👋👋+Olá.+Meu+nome+é+Vitor,+e+eu+sou+um+Desenvolvedor+Front-End!)
 
-![Naruto Running](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl6OXVqN2J4NGJrZXZ5b25xYnpjYXNkdWZ5dnlqMTJ1d29wcDZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif)
+![Computer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFrNmM2MXMxNDIzNnl2c2JvNzJ6bGdoaWtsMnRvYWZibDlncmdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif)
 
 
 Atualmente trabalho com infraestrutura no Hospital de Câncer de Barretos, onde aplico minhas habilidades técnicas para garantir a operação eficiente de sistemas críticos no ambiente hospitalar.
