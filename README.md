@@ -4,9 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=+Olá%2C+eu+sou+o+Vitor!;Desenvolvedor+Front-End;Infraestrutura+no+HCB+;Sempre+buscando+inovar+)](https://git.io/typing-svg)
 
-</div>
 
 ---
 
@@ -14,7 +12,7 @@
 
 ### Sobre mim
 
-Sou **Vitor**, desenvolvedor Front-End e especialista em infraestrutura de TI. Atualmente atuo no **Hospital de Câncer de Barretos**, garantindo a operação eficiente de sistemas críticos no ambiente hospitalar.
+Sou **Vitor**, desenvolvedor Front-End e atualmente especialista em infraestrutura de TI. Atualmente atuo no **Hospital de Câncer de Barretos**, garantindo a operação eficiente de sistemas críticos no ambiente hospitalar.
 
 Combino desenvolvimento de software e infraestrutura para criar soluções inovadoras que fazem a diferença onde mais importa.
 
