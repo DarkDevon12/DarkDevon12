@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00f5ff,50:7b2ff7,100:ff2e97&height=170&section=header&text=Vitor%20Justino&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=520&height=40&lines=Front-End+Developer;React+%C2%B7+TypeScript+%C2%B7+Node.js;Interfaces+modernas+e+r%C3%A1pidas" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=520&height=40&lines=Front-End+Developer;React+%C2%B7+JavaScript+%C2%B7+Node.js;Interfaces+modernas+e+r%C3%A1pidas" alt="typing" />
 
 </div>
 
